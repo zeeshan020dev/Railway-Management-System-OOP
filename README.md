@@ -92,7 +92,7 @@ To compile and run the project, you'll need a C++ compiler like `g++`.
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
 
-Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Technical Lead – [Skill Sprint](https://www.linkedin.com/company/skill-sprint-pk/) | Trainee – CEGA
+Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Technical Lead – [Skill Sprint](https://www.linkedin.com/company/skill-sprint-pk/) | Trainee – [CEGA](https://www.linkedin.com/company/cegaofficialpk/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
